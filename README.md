@@ -107,7 +107,7 @@ This gives a verified discovery rate of:
 
 The result is small, but it shows that official websites can provide high-confidence VAT information when the number is clearly published.
 
-### 4.3 EORI
+### EORI
 
 I also tested whether EORI numbers could help with VAT discovery.
 
